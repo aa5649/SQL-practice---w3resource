@@ -1,0 +1,2 @@
+SELECT names, commission
+FROM salesman;
