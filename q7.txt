@@ -1,0 +1,2 @@
+SELECT ord_date,salesman_id,ord_number,purch_amt
+FROM orders;
